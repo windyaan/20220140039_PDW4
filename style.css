@@ -1,0 +1,15 @@
+h2{
+    padding:30px;
+}
+h3{ padding: 10px;
+    text-align: right;
+    background-color: wheat;}
+html{padding:30px;}
+button {
+    font-size: 15px;
+    background-color: #f5deb3
+}
+fieldset {
+    padding:30px;
+    text-align: right
+}
